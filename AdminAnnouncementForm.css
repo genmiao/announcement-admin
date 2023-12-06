@@ -1,0 +1,127 @@
+body {
+    background-color: #ffffff;
+}
+
+.left-container1 {
+    height: calc(100vh - 64px);
+    background-color: #ffffff;
+    margin-left: 0;
+    margin-top: 40px;
+  }
+
+.image-container1 {
+    width: 100%;
+    max-width: 200px;
+    margin-bottom: 20px;
+    margin-left: 100px;
+  }
+
+.description1 {
+    font-size: 18px;
+    color: #a8a2a2;
+    margin-left: 15px;
+    margin-right: 15px;
+  }
+
+.header-text1 {
+    font-weight: 800;
+    font-size: 37;
+    color: #213555;
+    display: flex;
+    justify-content: center;
+    margin-top: 60px;
+    margin-left: 15px;
+  }
+
+.importantannouncement1 {
+    margin-top: -5px;
+    height: fit-content;
+}
+
+.importantannouncement-box1 {
+    border: 2px solid #333;
+    padding: 0%;
+    display: inline-block;
+    width: 100%;
+    background-color: #213555;
+    margin-top: 5px;
+}
+
+.submit-announcement1 {
+    height: 50vh;
+    margin-right: 50%;
+    margin-bottom: 100px;
+}
+
+.title-input1 {
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 8px;
+    box-shadow: 0 4px 5px #A8A2A2;
+    /* box-sizing: border-box; */
+    /* width: 100%; */
+    width: 97%;
+    height: 50px;
+    margin-left: 8px;
+    font-weight: bold;
+    font-size: large;
+}
+
+.announcement-date1 {
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 8px;
+    box-shadow: 0 4px 5px #A8A2A2;
+    box-sizing: border-box;
+    width: 98%;
+    height: 50px;
+    margin-top: auto;
+    margin-left: 8px;
+    font-weight: bold;
+    font-size: large;
+}
+
+.content-details1 {
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 8px;
+    box-shadow: 0 4px 5px #A8A2A2;
+    box-sizing: border-box;
+    width: 98%;
+    margin-left: 8px;
+    height: 350px;
+    box-sizing: border-box;
+    margin-top: -20px;
+    font-size: large;
+}
+
+.submit-checkbutton1 {
+    width: 200px;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+}
+
+.submit-button-anotherann1,
+.submit-button-home1 {
+    height: 30px;
+    width: 400px;
+    padding: 15px 30px;
+    border-radius: 10px;
+    margin-bottom: 100px;
+}
+
+.announcement-submit1 {
+    margin-top: 10px;
+    text-align: center;
+}
+
+
+.title-input1,
+.announcement-date1,
+.content-details1 {
+    font-family: 'Your Chosen Font', sans-serif;
+}
+
